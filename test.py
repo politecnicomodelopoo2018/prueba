@@ -1,1 +1,9 @@
-print ("hola mundo")
+print ("hola "
+       ""
+       ""
+       ""
+       "dasdsa"
+       ""
+       ""
+       ""
+       "mundo")
