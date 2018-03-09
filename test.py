@@ -3,7 +3,4 @@ print ("hola "
        ""
        ""
        "dasdsa"
-       ""
-       ""
-       ""
        "mundo")
